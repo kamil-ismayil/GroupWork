@@ -1,1 +1,5 @@
 Jag har skrivit denna filen till ditt tomma repo
+
+Nu är repot inte tomt längre! Lägger till detta i en ny branch. Jag är väldigt cool.
+
+En tredje uppdatering, vet inte alls vad jag skall skriva.
